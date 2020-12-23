@@ -18,15 +18,11 @@ dev1 에서 작업
 
 ㄴㅇ러ㅣㄴ어린어ㅣ
 
+ HEAD
 
 git
 dev 브랜치에서 작업중임
 
 sdfsdfjlsdjfidsldsjifdsjljfie,ijdlsj
 ㄴㄹㅇㄴㄹㄴ어ㅣㅑ디
-
-dev에서 하는거임
-
-dev2dptj wkrdjd
-
-sdfsdjfsdifldsjfiejlsdfjfiejlsdj
+sdfsdjie0c4ed1656e1af49989bbb702b
